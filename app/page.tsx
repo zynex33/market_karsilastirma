@@ -70,8 +70,11 @@ export default function Home() {
 
         {/* Header Section */}
         <div className="text-center mb-8 space-y-2">
+          <div className="flex items-center justify-center gap-3 mb-2">
+            <img src="/logo.png" alt="Market Karşılaştır Logo" className="w-16 h-16" />
+          </div>
           <h1 className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 animate-gradient">
-            Market Fiyatları
+            Market Karşılaştır
           </h1>
           <p className="text-gray-400 text-sm md:text-base max-w-2xl mx-auto">
             A101, Şok ve Migros fiyatlarını tek tıkla karşılaştırın.
