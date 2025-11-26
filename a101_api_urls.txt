@@ -1,0 +1,12 @@
+https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.a101.com.tr
+https://rio.a101.com.tr/dbmk89vnr/CALL/CMS/getAboutUs/CMS?__culture=tr-TR&__platform=web&data=e30%3D&__isbase64=true
+https://rio.a101.com.tr/dbmk89vnr/CALL/ContentManager/getFooter/default?zone=corporate&__culture=tr-TR&__platform=web&data=e30%3D&__isbase64=true
+https://a101-ecom.wawlabs.com/top_searches
+https://rio.a101.com.tr/dbmk89vnr/CALL/Cart/get/default?deviceId=45217589732447F15C0F72CBA31B30A382C4140F4C12E13DE32767622C1BAB5F&version=2&__culture=tr-TR&__platform=web&data=e30%3D&__isbase64=true
+https://a101-ecom.wawlabs.com/search?q=sut&rpp=6&pn=1
+https://rio.a101.com.tr/dbmk89vnr/TOKEN/auth?__culture=tr-TR&__platform=web
+https://firebaseinstallations.googleapis.com/v1/projects/a101-kapida-beta/installations
+https://firebaseremoteconfig.googleapis.com/v1/projects/a101-kapida-beta/namespaces/firebase:fetch?key=AIzaSyCLYpllfjFBpBU0qBf12zQCRnKBVc_b_Bo
+https://firebaseremoteconfig.googleapis.com/v1/projects/a101-kapida-beta/namespaces/firebase:fetch?key=AIzaSyCLYpllfjFBpBU0qBf12zQCRnKBVc_b_Bo
+https://firebaseremoteconfig.googleapis.com/v1/projects/a101-kapida-beta/namespaces/firebase:fetch?key=AIzaSyCLYpllfjFBpBU0qBf12zQCRnKBVc_b_Bo
+https://rio.a101.com.tr/dbmk89vnr/CALL/Cart/basicCartSummary/nonmem251125CtM2lJk6s3xx?__culture=tr-TR&__platform=web

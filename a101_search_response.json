@@ -1,0 +1,2884 @@
+{
+  "top_searches": [
+    "Stanley",
+    "Su",
+    "Yumurta",
+    "Süt",
+    "Çay",
+    "Peynir",
+    "Kahve",
+    "Ugg",
+    "Çikolata",
+    "Televizyon"
+  ],
+  "top_brands": [],
+  "top_categories": [
+    "Su",
+    "Yumurta",
+    "Süt",
+    "Çay",
+    "Kahve",
+    "Çikolata",
+    "Televizyon",
+    "Cips",
+    "Yoğurt",
+    "Oyuncak"
+  ],
+  "top_products": [
+    {
+      "price": 89,
+      "old_price": 89,
+      "id": "11000052",
+      "title": "Erhindi Hindi Döner 250 G",
+      "link": "https://www.a101kapida.com/product/11000052",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/C63YGgMQzo_1024x1024.png",
+      "category": "Beyaz Et",
+      "locations": [
+        {
+          "location": "7642-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D338-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G906-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H273-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J007-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J090-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J272-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J141-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "6226-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H844-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 89,
+          "oldprice": 89,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 95,
+      "old_price": 95,
+      "id": "11000066",
+      "title": "Doyfarm Piliç Salam 850 G",
+      "link": "https://www.a101kapida.com/product/11000066",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/fcUa3sbK5B_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F489-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J834-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 95,
+      "old_price": 95,
+      "id": "11000066",
+      "title": "Doyfarm Piliç Salam 850 G",
+      "link": "https://www.a101kapida.com/product/11000066",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/fcUa3sbK5B_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F489-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J834-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 95,
+          "oldprice": 95,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 93.5,
+      "old_price": 93.5,
+      "id": "11000067",
+      "title": "Doyfarm Piliç Büfe Sucuk 450 G",
+      "link": "https://www.a101kapida.com/product/11000067",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gOoGcYjosD_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 93.5,
+      "old_price": 93.5,
+      "id": "11000067",
+      "title": "Doyfarm Piliç Büfe Sucuk 450 G",
+      "link": "https://www.a101kapida.com/product/11000067",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gOoGcYjosD_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 93.5,
+      "old_price": 93.5,
+      "id": "11000067",
+      "title": "Doyfarm Piliç Büfe Sucuk 450 G",
+      "link": "https://www.a101kapida.com/product/11000067",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gOoGcYjosD_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 93.5,
+      "old_price": 93.5,
+      "id": "11000067",
+      "title": "Doyfarm Piliç Büfe Sucuk 450 G",
+      "link": "https://www.a101kapida.com/product/11000067",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gOoGcYjosD_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    },
+    {
+      "price": 93.5,
+      "old_price": 93.5,
+      "id": "11000067",
+      "title": "Doyfarm Piliç Büfe Sucuk 450 G",
+      "link": "https://www.a101kapida.com/product/11000067",
+      "image": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gOoGcYjosD_1024x1024.png",
+      "category": "Şarküteri",
+      "locations": [
+        {
+          "location": "2946-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8366-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8914-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9773-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B477-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C326-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C345-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C714-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C819-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C952-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D142-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D482-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D638-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D688-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D929-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E200-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E343-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E405-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E747-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E751-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E906-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F034-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F108-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F490-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS031-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "VS032-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F439-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I040-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "8776-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G948-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C362-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "G323-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H202-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I768-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I837-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F512-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "I585-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B575-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J269-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C986-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "9308-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "B095-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "H452-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F909-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "F377-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "C954-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "D888-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "J783-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "E434-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        },
+        {
+          "location": "K119-SLOT",
+          "price": 93.5,
+          "oldprice": 93.5,
+          "discountRate": null,
+          "discountRateStr": null
+        }
+      ],
+      "promotions": [
+        {
+          "discountedPrice": null,
+          "priceStr": null,
+          "discountedPriceStr": null,
+          "importDate": null,
+          "source": null,
+          "endDate": null,
+          "code": null,
+          "qty": null,
+          "price": null,
+          "profit": null,
+          "badgeType": null,
+          "startDate": null,
+          "name": null,
+          "badgeId": null,
+          "badgeURL": null
+        }
+      ],
+      "campaigns": null,
+      "available": true,
+      "salesUnitOfMeasure": "ADT",
+      "baseUnitOfMeasure": "ADT",
+      "SLOT_maxWeight": null,
+      "SLOT_minWeight": null,
+      "HEMEN_maxWeight": null,
+      "HEMEN_minWeight": null,
+      "stepper": 1
+    }
+  ],
+  "default_banner": [],
+  "redirect": {
+    "Stanley": "",
+    "Su": "",
+    "Yumurta": "",
+    "Süt": "",
+    "Çay": "",
+    "Peynir": "",
+    "Kahve": "",
+    "Ugg": "",
+    "Çikolata": "",
+    "Televizyon": "",
+    "Cips": "",
+    "Yoğurt": "",
+    "Oyuncak": ""
+  }
+}

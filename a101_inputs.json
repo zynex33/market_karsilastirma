@@ -1,0 +1,9 @@
+[
+  {
+    "placeholder": "Aramak istediğin ürünü yaz...",
+    "name": "",
+    "id": "searchbar",
+    "className": "text-center caret-brand-blue-primary  ring-0 pl-4   pr-10 focus:ring-brand-blue-primary focus:ring-0 focus:border-brand-gray-border  w-full bg-white items-center h-10 tablet:h-12  rounded-full  form-input focus:placeholder:text-white  cursor-pointer border border-brand-gray-border placeholder:text-brand-gray-secondary placeholder:text-base",
+    "type": "text"
+  }
+]

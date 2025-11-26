@@ -1,0 +1,1477 @@
+{
+  "res": [
+    {
+      "ix": 7233,
+      "id": "26064218",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11PGEU Süt Köpürtücü Yeşil",
+      "attributes": {
+        "Barkod": "8017709316112",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316112",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11pgeu Süt Köpürtücü Yeşil ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11pgeu Süt Köpürtücü Yeşil - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11PGEU Süt Köpürtücü Yeşil",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11pgeu-sut-kopurtucu-yesil_p-26064218",
+        "vatRate": 20,
+        "category": "Mutfak Yardımcıları",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020311",
+          "name": "Mutfak Yardımcıları",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26064218default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Mutfak Yardımcıları",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26064218",
+      "variants": [
+        {
+          "id": "26064218",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1758536286531,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11PGEU Süt Köpürtücü Yeşil",
+      "color": null,
+      "barcode": "8017709316112",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "mutfak yardımcıları smeg 50 s style mff11pgeu süt köpürtücü yeşil",
+      "scheduled_rule": []
+    },
+    {
+      "ix": 7229,
+      "id": "26044634",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11CREU Süt Köpürtücü Krem",
+      "attributes": {
+        "Barkod": "8017709316075",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316075",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11creu Süt Köpürtücü Krem ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11creu Süt Köpürtücü Krem - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11CREU Süt Köpürtücü Krem",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11creu-sut-kopurtucu-krem_p-26044634",
+        "vatRate": 20,
+        "category": "Mutfak Yardımcıları",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020311",
+          "name": "Mutfak Yardımcıları",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26044634default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Mutfak Yardımcıları",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26044634",
+      "variants": [
+        {
+          "id": "26044634",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1758536286578,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11CREU Süt Köpürtücü Krem",
+      "color": null,
+      "barcode": "8017709316075",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "mutfak yardımcıları smeg 50 s style mff11creu süt köpürtücü krem",
+      "scheduled_rule": []
+    },
+    {
+      "ix": 7234,
+      "id": "26064228",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11BLEU Süt Köpürtücü Siyah",
+      "attributes": {
+        "Barkod": "8017709316082",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316082",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11bleu Süt Köpürtücü Siyah ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11bleu Süt Köpürtücü Siyah - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11BLEU Süt Köpürtücü Siyah",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11bleu-sut-kopurtucu-siyah_p-26064228",
+        "vatRate": 20,
+        "category": "Mutfak Yardımcıları",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020311",
+          "name": "Mutfak Yardımcıları",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26064228default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Mutfak Yardımcıları",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26064228",
+      "variants": [
+        {
+          "id": "26064228",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1758536286747,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11BLEU Süt Köpürtücü Siyah",
+      "color": null,
+      "barcode": "8017709316082",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "mutfak yardımcıları smeg 50 s style mff11bleu süt köpürtücü siyah",
+      "scheduled_rule": []
+    },
+    {
+      "ix": 7256,
+      "id": "26063572",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11PKEU Süt Köpürtücü PEMBE",
+      "attributes": {
+        "Barkod": "8017709316129",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316129",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11pkeu Süt Köpürtücü Pembe ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11pkeu Süt Köpürtücü Pembe - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11PKEU Süt Köpürtücü PEMBE",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11pkeu-sut-kopurtucu-pembe_p-26063572",
+        "vatRate": 20,
+        "category": "Su Isıtıcı & Kettle",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020313",
+          "name": "Su Isıtıcı & Kettle",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26063572default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Su Isıtıcı & Kettle",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26063572",
+      "variants": [
+        {
+          "id": "26063572",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1760620152271,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11PKEU Süt Köpürtücü PEMBE",
+      "color": null,
+      "barcode": "8017709316129",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "su isıtıcı & kettle smeg 50 s style mff11pkeu süt köpürtücü pembe",
+      "scheduled_rule": []
+    },
+    {
+      "ix": 7232,
+      "id": "26064221",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11WHEU Süt Köpürtücü Beyaz",
+      "attributes": {
+        "Barkod": "8017709316136",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316136",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11wheu Süt Köpürtücü Beyaz ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11wheu Süt Köpürtücü Beyaz - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11WHEU Süt Köpürtücü Beyaz",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11wheu-sut-kopurtucu-beyaz_p-26064221",
+        "vatRate": 20,
+        "category": "Mutfak Yardımcıları",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020311",
+          "name": "Mutfak Yardımcıları",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26064221default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Mutfak Yardımcıları",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26064221",
+      "variants": [
+        {
+          "id": "26064221",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1758536286616,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11WHEU Süt Köpürtücü Beyaz",
+      "color": null,
+      "barcode": "8017709316136",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "mutfak yardımcıları smeg 50 s style mff11wheu süt köpürtücü beyaz",
+      "scheduled_rule": []
+    },
+    {
+      "ix": 7244,
+      "id": "26064220",
+      "variantAttributes": [],
+      "name": "Smeg 50's Style MFF11RDEU Süt Köpürtücü Kırmızı",
+      "attributes": {
+        "Barkod": "8017709316099",
+        "Dynamicbadge": "6taksit",
+        "Hadibadgeincluded": "false",
+        "Isinsurable": "true",
+        "Isinsuranceproduct": "false",
+        "Materialgroup": "26070909",
+        "Materialgroupname": "ELEK.KÜÇÜK EV ALET.",
+        "Property": "SP",
+        "barcode": "8017709316099",
+        "baseUnitOfMeasure": "ADT",
+        "brandId": "B012056",
+        "brandLabel": "Smeg",
+        "brandUrl": "https://www.a101.com.tr/markalar/smeg",
+        "canBeAddedOnListing": true,
+        "channelNames": [
+          "Online Satışa Özel"
+        ],
+        "channels": [
+          "272663"
+        ],
+        "countryId": "CN",
+        "countryLabel": "Çin",
+        "dailyMaxQty": 1000,
+        "feedVersion": 1,
+        "hediye": true,
+        "maxQty": 3,
+        "metaDescription": "Smeg 50'S Style Mff11rdeu Süt Köpürtücü Kırmızı ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+        "metaTitle": "Smeg 50'S Style Mff11rdeu Süt Köpürtücü Kırmızı - A101",
+        "minQty": 1,
+        "name": "Smeg 50's Style MFF11RDEU Süt Köpürtücü Kırmızı",
+        "requiresTcId": false,
+        "returnDay": 15,
+        "shortDescription": "",
+        "stepper": 1,
+        "stockSource": "CL",
+        "tomPay": false,
+        "url": "https://www.a101.com.tr/elektronik/smeg-50-s-style-mff11rdeu-sut-kopurtucu-kirmizi_p-26064220",
+        "vatRate": 20,
+        "category": "Mutfak Yardımcıları",
+        "cl1": "Elektronik",
+        "cl2": "Elektrikli Ev Aletleri",
+        "isEnabled": true,
+        "inStock": true,
+        "discountedText": "₺11.999,00",
+        "size": null,
+        "mainColor": null,
+        "sizes": ""
+      },
+      "categories": [
+        {
+          "id": "C02",
+          "name": "Elektronik",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C0203",
+          "name": "Elektrikli Ev Aletleri",
+          "sortOrderNumber": 999999
+        },
+        {
+          "id": "C020311",
+          "name": "Mutfak Yardımcıları",
+          "sortOrderNumber": 999999
+        }
+      ],
+      "images": [
+        {
+          "id": "1.JPG",
+          "imageType": "product",
+          "isExternal": true,
+          "tags": [],
+          "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26064220default/1.JPG"
+        }
+      ],
+      "isEnabled": true,
+      "inStock": true,
+      "price": {
+        "discountRate": null,
+        "discountRateText": null,
+        "discounted": 1199900,
+        "discountedText": "₺11.999,00",
+        "normal": 1199900,
+        "normalText": "₺11.999,00"
+      },
+      "category": "Mutfak Yardımcıları",
+      "brand": "Smeg",
+      "Fiyat Aralığı": "₺11.999,00",
+      "promotions": [],
+      "Marka": "Smeg",
+      "discount_rate": null,
+      "collections": [
+        {
+          "id": "S10861017",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911016",
+          "name": "A101-Garanti Bankası Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291003",
+          "name": "Garanti Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911059",
+          "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911056",
+          "name": "Garanti Bankası Tüm Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291005",
+          "name": "A101 Ekstra Özel Banka Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911065",
+          "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911006",
+          "name": "Hadi Veresiye - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861015",
+          "name": "Hadi Alışveriş Kredisi ile Taksitli Öde",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911046",
+          "name": "Peşin fiyatına 6 taksit ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531296",
+          "name": "Peşin Fiyatına 6 Taksitli Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911052",
+          "name": "Hadi ile 18 Aya Varan Taksit",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911025",
+          "name": "hadi veresiye",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10911014",
+          "name": "A101-Garanti Bankası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10291004",
+          "name": "Bonus Kampanyası",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S1032",
+          "name": "Ekstraya Özel Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10861001",
+          "name": "Hadi Veresiye ile Şimdi Al 2 Aya Kadar Ertele - A101",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531147",
+          "name": "A101 Ekstra - Küçük Ev Aletleri ve Mutfak Ürünleri",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531274",
+          "name": "A101 Ekstra Ürünler",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531022",
+          "name": "Küçük Ev Aletleri - A101 Ekstra",
+          "sortOrder": 999999
+        },
+        {
+          "id": "S10531028",
+          "name": "A101 Ekstra - Smeg",
+          "sortOrder": 999999
+        }
+      ],
+      "baseId": "26064220",
+      "variants": [
+        {
+          "id": "26064220",
+          "color": null
+        }
+      ],
+      "variantCount": 1,
+      "openedAt": 1758536286546,
+      "sizes": [],
+      "seo_name": "Smeg 50s Style MFF11RDEU Süt Köpürtücü Kırmızı",
+      "color": null,
+      "barcode": "8017709316099",
+      "size_variants_list": null,
+      "dynamicBadges": [
+        {
+          "bgColor": "#EA242A",
+          "frameColor": "#EA242A",
+          "id": "6taksit",
+          "text": "Peşin Fiyatına 6 Taksit",
+          "textColor": "#FFFFFF"
+        }
+      ],
+      "content_lines": "mutfak yardımcıları smeg 50 s style mff11rdeu süt köpürtücü kırmızı",
+      "scheduled_rule": []
+    }
+  ],
+  "default_banner": [],
+  "facet_fields": [
+    {
+      "field": "attributes",
+      "child": "category",
+      "name": "Ürün Çeşidi",
+      "type": "value",
+      "data": [
+        {
+          "name": "Mutfak Yardımcıları",
+          "count": 9999,
+          "is_selected": false
+        },
+        {
+          "name": "Su Isıtıcı & Kettle",
+          "count": 9999,
+          "is_selected": false
+        }
+      ],
+      "url_name": "c"
+    },
+    {
+      "field": "attributes",
+      "child": "cl1",
+      "name": "Ana Kategori",
+      "type": "value",
+      "data": [
+        {
+          "name": "Elektronik",
+          "count": 9999,
+          "is_selected": false
+        }
+      ],
+      "url_name": "c1"
+    },
+    {
+      "field": "attributes",
+      "child": "cl2",
+      "name": "Alt Kategori",
+      "type": "value",
+      "data": [
+        {
+          "name": "Elektrikli Ev Aletleri",
+          "count": 9999,
+          "is_selected": false
+        }
+      ],
+      "url_name": "c2"
+    },
+    {
+      "field": "attributes",
+      "child": "brandLabel",
+      "name": "Marka",
+      "type": "value",
+      "data": [
+        {
+          "name": "Smeg",
+          "count": 9999,
+          "is_selected": false
+        },
+        {
+          "name": "Vestel",
+          "count": 9999,
+          "is_selected": false
+        }
+      ],
+      "url_name": "b"
+    },
+    {
+      "name": "Fiyat Aralığı",
+      "child": "discountedText",
+      "field": "attributes",
+      "type": "range",
+      "data": [
+        {
+          "name": "₺1.399 - ₺11.999",
+          "from": 1399,
+          "to": 11999,
+          "count": 8,
+          "is_selected": false
+        }
+      ],
+      "url_name": "d",
+      "stepper": 50,
+      "min": 1300,
+      "max": 12000
+    }
+  ],
+  "static_content_results": {},
+  "total_item_count": 8,
+  "no_result": false,
+  "query": {
+    "q": "sut",
+    "expanded_query": "sut",
+    "processed_query": "sut",
+    "sc_source_query": "süt",
+    "prechecked_dictionary_query": "süt",
+    "org_query": "süt"
+  }
+}

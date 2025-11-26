@@ -1,0 +1,102 @@
+[
+  {
+    "text": "",
+    "id": "",
+    "className": "CybotCookiebotBannerCloseButton"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tGerekli  20",
+    "id": "CybotCookiebotDialogDetailBodyContentCookieContainerNecessary",
+    "className": "CybotCookiebotDialogDetailBodyContentCookieContainerButton CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tTercihler  3",
+    "id": "CybotCookiebotDialogDetailBodyContentCookieContainerPreference",
+    "className": "CybotCookiebotDialogDetailBodyContentCookieContainerButton CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tİstatistikler  25",
+    "id": "CybotCookiebotDialogDetailBodyContentCookieContainerStatistics",
+    "className": "CybotCookiebotDialogDetailBodyContentCookieContainerButton CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tPazarlama  115",
+    "id": "CybotCookiebotDialogDetailBodyContentCookieContainerAdvertising",
+    "className": "CybotCookiebotDialogDetailBodyContentCookieContainerButton CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tSınıflandırılmamış  20",
+    "id": "CybotCookiebotDialogDetailBodyContentCookieContainerUnclassified",
+    "className": "CybotCookiebotDialogDetailBodyContentCookieContainerButton CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\tÇerezler Hakkında",
+    "id": "",
+    "className": ""
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t[#IABV2_LABEL_PURPOSES#]",
+    "id": "CybotCookiebotDialogDetailBodyContentIABv2Purposes",
+    "className": "CybotCookiebotDialogDetailBodyContentIABv2Tab CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t[#IABV2_LABEL_FEATURES#]",
+    "id": "CybotCookiebotDialogDetailBodyContentIABv2Features",
+    "className": "CybotCookiebotDialogDetailBodyContentIABv2Tab CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t[#IABV2_LABEL_PARTNERS#]",
+    "id": "CybotCookiebotDialogDetailBodyContentIABv2Partners",
+    "className": "CybotCookiebotDialogDetailBodyContentIABv2Tab CybotCookiebotDialogCollapsed"
+  },
+  {
+    "text": "Reddet",
+    "id": "CybotCookiebotDialogBodyButtonDecline",
+    "className": "CybotCookiebotDialogBodyButton"
+  },
+  {
+    "text": "Seçime izin ver",
+    "id": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection",
+    "className": "CybotCookiebotDialogBodyButton CybotCookiebotDialogHide"
+  },
+  {
+    "text": "Kişiselleştir",
+    "id": "CybotCookiebotDialogBodyLevelButtonCustomize",
+    "className": "CybotCookiebotDialogBodyButton"
+  },
+  {
+    "text": "Kabul Et",
+    "id": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "className": "CybotCookiebotDialogBodyButton"
+  },
+  {
+    "text": "",
+    "id": "CybotCookiebotBannerCloseButtonE2E",
+    "className": "CybotCookiebotBannerCloseButton"
+  },
+  {
+    "text": "",
+    "id": "",
+    "className": "top-1/2 -translate-y-1/2 absolute  z-[2] left-0  "
+  },
+  {
+    "text": "",
+    "id": "",
+    "className": "top-1/2 -translate-y-1/2 absolute  z-[2] right-0  "
+  },
+  {
+    "text": "                        ",
+    "id": "",
+    "className": "top-1/2 -translate-y-1/2 absolute z-[2] left-0 swiper-button-prev swiper-button-disabled"
+  },
+  {
+    "text": "",
+    "id": "",
+    "className": "top-1/2 -translate-y-1/2 absolute z-[2] right-0 swiper-button-next"
+  },
+  {
+    "text": "",
+    "id": "",
+    "className": "CookiebotWidget-logo"
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "ix": 4584,
+  "id": "26029309002",
+  "variantAttributes": [],
+  "name": "Apple iPhone 14 128 GB Cep Telefonu Beyaz",
+  "attributes": {
+    "Barkod": "99194253408543",
+    "Dahili Hafıza": "128 GB",
+    "Ekran Boyutu": "6.1 inç",
+    "Ekran Tipi": "OLED",
+    "Hadibadgetext": "$$Hadi\\nKredi ile$$&&*Vade Farksız\\n{{installmentCountTom}} Taksit!*&&",
+    "Isinsurable": "true",
+    "Isinsuranceproduct": "false",
+    "Işletim Sistemi": "iOS",
+    "Materialgroup": "26010303",
+    "Materialgroupname": "TELEFON",
+    "Promotionscode": "Z151",
+    "Property": "SP",
+    "Ram": "6 GB",
+    "Yüz Tanıma": "Var",
+    "barcode": "99194253408543",
+    "baseUnitOfMeasure": "ADT",
+    "brandId": "B0102",
+    "brandLabel": "Apple",
+    "brandUrl": "https://www.a101.com.tr/markalar/apple",
+    "canBeAddedOnListing": true,
+    "channelNames": [
+      "Online Satışa Özel"
+    ],
+    "channels": [
+      "272663"
+    ],
+    "dailyMaxQty": 3,
+    "feedVersion": 1,
+    "hadiCreditDescription": "<p>Vade ve taksit tutarları tek bir &uuml;r&uuml;n &uuml;zerinden hesaplanmış olup sepetteki tutar &uuml;zerinden değişiklik g&ouml;sterebilir.</p>\n<p>Toplam tutarı değiştirmemek kaydıyla, banka sistemlerinden kaynaklı taksit tutarlarında 1 TL&rsquo;den az değişiklikler olabilir.</p>",
+    "hediye": true,
+    "hexCode": "#FFFFFF",
+    "installmentHadiBadgeText": "$$Hadi\\nKredi ile$$&&*Vade Farksız\\n3 Taksit!*&&",
+    "mainColor": "Beyaz",
+    "maxQty": 3,
+    "metaDescription": "Apple Iphone 14 128 Gb Cep Telefonu Beyaz ürününü A101 güvencesiyle en uygun fiyata satın almak için hemen tıklayın!",
+    "metaTitle": "Apple Iphone 14 128 Gb Cep Telefonu Beyaz - A101",
+    "minQty": 1,
+    "name": "Apple iPhone 14 128 GB Cep Telefonu Beyaz",
+    "parentValue": "Beyaz",
+    "requiresTcId": false,
+    "returnDay": 15,
+    "shortDescription": "",
+    "stepper": 1,
+    "stockSource": "CL",
+    "storeSku": "26029304",
+    "tomPay": false,
+    "url": "https://www.a101.com.tr/elektronik/apple-iphone-14-128-gb-cep-telefonu-beyaz_p-26029309",
+    "vatRate": 20,
+    "Çift Sim": "Var",
+    "category": "Cep Telefonu",
+    "cl1": "Elektronik",
+    "cl2": "Telefon & Aksesuar",
+    "isEnabled": true,
+    "inStock": true,
+    "discountedText": "₺42.999,00",
+    "size": null,
+    "sizes": ""
+  },
+  "categories": [
+    {
+      "id": "C02",
+      "name": "Elektronik",
+      "sortOrderNumber": 999999
+    },
+    {
+      "id": "C0207",
+      "name": "Telefon & Aksesuar",
+      "sortOrderNumber": 999999
+    },
+    {
+      "id": "C020704",
+      "name": "Cep Telefonu",
+      "sortOrderNumber": 999999
+    }
+  ],
+  "images": [
+    {
+      "id": "26029309BEYAZ_914.jpg",
+      "imageType": "product",
+      "isExternal": true,
+      "tags": [],
+      "url": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/getcl/livephotos/8/26029309BEYAZ/26029309BEYAZ_914.jpg"
+    }
+  ],
+  "isEnabled": true,
+  "inStock": true,
+  "price": {
+    "discountRate": null,
+    "discountRateText": null,
+    "discounted": 4299900,
+    "discountedText": "₺42.999,00",
+    "normal": 4299900,
+    "normalText": "₺42.999,00"
+  },
+  "category": "Cep Telefonu",
+  "brand": "Apple",
+  "Fiyat Aralığı": "₺42.999,00",
+  "promotions": [],
+  "Marka": "Apple",
+  "discount_rate": null,
+  "collections": [
+    {
+      "id": "S1032",
+      "name": "Ekstraya Özel Ürünler",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10291003",
+      "name": "Garanti Bonus Kampanyası",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10291004",
+      "name": "Bonus Kampanyası",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10291005",
+      "name": "A101 Ekstra Özel Banka Kampanyası",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10081014",
+      "name": "Elektronik Ürünler",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911056",
+      "name": "Garanti Bankası Tüm Ürünler",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911059",
+      "name": "A101 Ekstra - Garanti  Bankası Kampanyası",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911016",
+      "name": "A101-Garanti Bankası Ürünler",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911009",
+      "name": "Hadi Vade Farksız Cep Telefonu",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10741006",
+      "name": "A101 Ekstra - Apple",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911014",
+      "name": "A101-Garanti Bankası",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S10911065",
+      "name": "Hadi Kredi Kartı ile 1750 TL'ye Varan İade",
+      "sortOrder": 999999
+    },
+    {
+      "id": "S1020",
+      "name": "ucuzun da ucuzu fiyatlar",
+      "sortOrder": 999999
+    }
+  ],
+  "baseId": "26029309",
+  "variants": [
+    {
+      "id": "26029309003",
+      "color": "Mavi"
+    },
+    {
+      "id": "26029309002",
+      "color": "Beyaz"
+    }
+  ],
+  "variantCount": 2,
+  "openedAt": 1762882764403,
+  "sizes": [
+    {
+      "id": "26029309002",
+      "size": null
+    }
+  ],
+  "seo_name": "Apple iPhone 14 128 GB Cep Telefonu Beyaz",
+  "color": "Beyaz",
+  "barcode": "194253408543",
+  "size_variants_list": [
+    "26029309002"
+  ],
+  "dynamicBadges": [],
+  "content_lines": "cep telefonu apple iphone 14 128gb cep telefonu beyaz mavi beyaz",
+  "scheduled_rule": []
+}
