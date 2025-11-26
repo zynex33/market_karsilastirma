@@ -16,7 +16,10 @@ export const metadata: Metadata = {
   title: "Market Karşılaştır - A101, Şok, Migros Fiyat Karşılaştırma",
   description: "A101, Şok ve Migros marketlerinin fiyatlarını karşılaştırın. En ucuz ürünleri bulun!",
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/icon.png' },
+      { url: '/favicon.ico' },
+    ],
   },
 };
 
